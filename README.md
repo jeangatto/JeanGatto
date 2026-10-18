@@ -7,4 +7,4 @@
 
 > “The process of preparing programs for a digital computer is especially attractive, not only because it can be economically and scientifically rewarding, but also because it can be an aesthetic experience much like composing poetry or music.”
 >
-> <cite>The Art of Computer Programming: Volume 1: Fundamental Algorithms: Fundamental Algorithms, Volume 1</cite>
+> <cite>The Art of Computer Programming: Volume 1: Fundamental Algorithms</cite>
